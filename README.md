@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul lodhi
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning javascript node js express js
+- 🌱 I’m currently learning Node.js framework express js in backend
 - 💞️ I’m looking to collaborate on uniques projects 
 - 📫 How to reach me rahullodhi3814@gmail.com
 - 😄 Rahul
