@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer specializing in buil
 ## 🌟 Featured Projects
 
 <!-- Update these with your best projects! -->
-- [Project 1 WanderLust](#) — Wanderlust is a full-stack web application that allows users to explore, list, and book unique places to stay — inspired by Airbnb. Users can create listings, view details, and manage stays with a user-friendly interface.
+- [Project 1 WanderLust](https://wanderlust-v6tc.onrender.com/listing) — Wanderlust is a full-stack web application that allows users to explore, list, and book unique places to stay — inspired by Airbnb. Users can create listings, view details, and manage stays with a user-friendly interface.
 
 🔧 Tech Stack:
 MongoDB – NoSQL database for storing listings and user data
@@ -41,7 +41,7 @@ Node.js – Server-side JavaScript runtime
 React.js – Modern frontend framework
 
 Tailwind CSS – Utility-first CSS for responsive UI
-- [Project 3 CareerBridge](#) — CareerBridge is a career-focused web application designed to connect job seekers with recruiters. Users can browse job listings, apply for opportunities, and manage their profiles, while recruiters can post jobs and review applicants — all in one seamless platform.
+- [Project 3 CareerBridge](https://wanderlust-v6tc.onrender.com/listing) — CareerBridge is a career-focused web application designed to connect job seekers with recruiters. Users can browse job listings, apply for opportunities, and manage their profiles, while recruiters can post jobs and review applicants — all in one seamless platform.
 
 🔧 Tech Stack:
 MongoDB – Stores user profiles, job listings, and applications
